@@ -71,7 +71,15 @@ Microsoft Fabric Lakehouseを活用したマルチソースデータ統合基盤
 
 ## ビジュアライゼーション
 
-*(スクリーンショット追加予定)*
+[![](assets/Tourism.PNG)](assets/Tourism.PNG)
+
+[![](assets/Temperature.PNG)](assets/Temperature.PNG)
+
+[![](assets/Inflation.PNG)](assets/Inflation.PNG)
+
+[![](assets/Overview.PNG)](assets/Overview.PNG)
+
+[![](assets/Data%20Table.PNG)](assets/Data%20Table.PNG)
 
 ## データモデル
 
