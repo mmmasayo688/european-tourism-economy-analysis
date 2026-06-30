@@ -71,7 +71,15 @@ Medallion Architecture (Bronze / Silver / Gold)
 
 ## Visualization
 
-*(Screenshots to be added)*
+[![](assets/Tourism.PNG)](assets/Tourism.PNG)
+
+[![](assets/Temperature.PNG)](assets/Temperature.PNG)
+
+[![](assets/Inflation.PNG)](assets/Inflation.PNG)
+
+[![](assets/Overview.PNG)](assets/Overview.PNG)
+
+[![](assets/Data%20Table.PNG)](assets/Data%20Table.PNG)
 
 ## Data Model
 
